@@ -9,11 +9,17 @@ depends on Code alpha operation demand every thing is categorized and separated 
 i tried to take risk and put all my fundemental skilles even ifit wasn't needed ,so you may find that the app may be 
 long or made with unwanted teckneques
 -OOP
+
 -inner Class
+
 -MVC design Pattern
+
 -encapsulation
+
 -ArrayList
+
 -interfaces and impelements
+
 # task objectives
 ● Build a Java program to input and manage student grades.
 ● Calculate average, highest, and lowest scores.
