@@ -8,6 +8,7 @@ depends on Code alpha operation demand every thing is categorized and separated 
 # skilles used
 i tried to take risk and put all my fundemental skilles even ifit wasn't needed ,so you may find that the app may be 
 long or made with unwanted teckneques
+
 -OOP
 
 -inner Class
@@ -21,9 +22,14 @@ long or made with unwanted teckneques
 -interfaces and impelements
 
 # task objectives
+
 ● Build a Java program to input and manage student grades.
+
 ● Calculate average, highest, and lowest scores.
+
 ● Use arrays or ArrayLists to store and manage data.
+
 ● Display a summary report of all students.
+
 ● Make the interface console-based or GUI-based as desired.
 
